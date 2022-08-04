@@ -1,6 +1,6 @@
 # Landing Page Netflix
 
-- Uma copia da pagina principal do Netflix, feita para praticas minhas skill's.
+- Uma copia da pagina principal do Netflix, feita para praticar minhas skill's.
 
 
 
